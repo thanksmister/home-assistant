@@ -100,7 +100,7 @@ Ce client léger est complètement silencieux lorsque équipé d'une unité de s
 <div align="center">
     <figure>
         <div>
-            <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/screenshot_sysmonitor.png" width="655" height="303" /></p>
+            <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/screenshot_sysmonitor.png" width="852" height="393" /></p>
         </div>
     </figure>
 </div>
