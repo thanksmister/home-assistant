@@ -89,13 +89,15 @@
 <h3>Caract&eacute;ristiques intéressantes du Dell Wyse 7020</h3>
 <ol>
 <li>Consommation moyenne entre 7 watts et 10 watts</li>
-<li>Ports SATA et possibilit&eacute; d'int&eacute;grer SSD interne</li>
+<li>Ports SATA (2) et possibilité d'intégrer SSD interne</li>
 <li>Ports USB 3.0 (2) USB 2.0 (4)</li>
-<li>G&eacute;n&eacute;ralement 4 Go de RAM</li>
+<li>Généralement 4 Go de RAM, possibilité à 8 Go, 2 fentes SDRAM DDR3</li>
 <li>Dimension largeur: 47 mm, profondeur: 200 mm, hauteur: 225 mm</li>
 <li>Refroidissement passif</li>
 </ol></br>
-Ce client léger est complètement silencieux lorsqu'il est équipé d'une unité de stockage non-mécanique. Le processeur affiche généralement une température de 40 &deg;C et très rarement il dépassera les 50 &deg;C. Le model 7020 est légèrement plus gros que le model 5020 de Dell, mais il a l'avantage de pouvoir loger facilement une unité SATA 2.5. Les performances du processeur AMD GX-420CA sont respectables en tenant compte de la faible consommation énergétique du système. Il est possible de se procurer cette machine pour un prix entre 50$US et 90$US, parfois dans un état presque neuf. Les unités vendues avec un stockage de 32 Go et moins nécessiteront un peu de bricolage pour ajouter un SSD. Les unités vendues avec un stockage de 64 Go, par exemple, ou avec un HDD, seront plus faciles à convertir puisqu'ils possèdent fort probablement déjà le câblage et le support 2.5.
+Ce client léger est complètement silencieux lorsqu'il est équipé d'une unité de stockage non-mécanique. Le processeur affiche généralement une température de 40 &deg;C et très rarement il dépassera les 50 &deg;C. Le model 7020 est légèrement plus gros que le model 5020 de Dell, mais il a l'avantage de pouvoir loger facilement une unité SATA 2.5. Les performances du processeur AMD GX-420CA sont respectables en tenant compte de la faible consommation énergétique du système. 
+</br>
+Il est possible de se procurer cette machine pour un prix entre 50$US et 90$US, parfois dans un état presque neuf. Les unités vendues avec un stockage de 32 Go et moins nécessiteront un peu de bricolage pour ajouter un SSD. Les unités vendues avec un stockage de 64 Go, par exemple, ou avec un HDD, seront plus faciles à convertir puisqu'ils possèdent fort probablement déjà le câblage et le support 2.5.
 </br></br>
 <div align="center">
     <figure>
@@ -120,3 +122,12 @@ Ce client léger est complètement silencieux lorsqu'il est équipé d'une unit�
      <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/photo_wyse_7020_rear.jpg" width="250" height="500" />
 </div>
 </br>
+<h3>Ajout</h3>
+Dans l'éventualité où il serait nécessaire d'intégrer des fonctionnalités avec une connection Bluetooth, l'ajout d'un adaptateur USB compatible Linux est requis
+<div align="center">
+    <figure>
+        <div>
+            <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/photo_sabrent_btub40.png" width="250" height="217" /></p>
+        </div>
+    </figure>
+</div>
