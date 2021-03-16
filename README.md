@@ -88,5 +88,5 @@
 <li>G&eacute;n&eacute;ralement 4 Go de RAM</li>
 <li>Dimension largeur: 47 mm, profondeur: 200 mm, hauteur: 225 mm</li>
 <li>Refroidissement passif</li>
-</ol>
+</ol></br>
 Ce client léger est complètement silencieux lorsque équipé d'une unité de stockage non-mécanique. Le processeur affiche généralement une température de 40 &deg;C et très rarement il dépassera les 50 &deg;C. Le model 7020 est légèrement plus gros que le model 5020 de Dell, mais il a l'avantage de pouvoir loger facilement une unité SATA 2.5. 
