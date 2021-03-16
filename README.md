@@ -1,3 +1,4 @@
+<h2>Home Assistant sur une machine minimaliste architecture x86_64</h2>
 <h3><img src="/images/icon_ha.png" alt="" width="256" height="256" /><img src="/images/photo_wyse_7020.png" alt="" width="157" height="278" /></h3>
 <h3>Dell Wyse 7020 ZQ - model Zx0Q</h3>
 <p>AMD G-Series GX-420CA<br />AMD Radeon&trade; HD 8400E (integrate with APU)</p>
@@ -79,7 +80,7 @@
 </tbody>
 </table>
 <h3>&nbsp;</h3>
-<h3>Caract&eacute;ristiques principales</h3>
+<h3>Caract&eacute;ristiques intéressantes du Dell Wyse 7020</h3>
 <ol>
 <li>Consommation moyenne entre 7 watts et 10 watts</li>
 <li>Ports SATA et possibilit&eacute; d'int&eacute;grer SSD interne</li>
@@ -88,3 +89,4 @@
 <li>Dimension largeur: 47 mm, profondeur: 200 mm, hauteur: 225 mm</li>
 <li>Refroidissement passif</li>
 </ol>
+Ce client léger est complètement silencieux lorsque équipé d'une unité de stockage non-mécanique. Le processeur affiche généralement une température de 40 &deg;C et très rarement il dépassera les 50 &deg;C. Le model 7020 est légèrement plus gros que le model 5020 de Dell, mais il a l'avantage de pouvoir loger facilement une unité SATA 2.5. 
