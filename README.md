@@ -105,3 +105,11 @@ Ce client léger est complètement silencieux lorsque équipé d'une unité de s
     </figure>
 </div>
 </br>
+<div align="center">
+    <figure>
+        <div>
+            <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/screenshot_benchmark.png" width="852" height="352" /></p>
+        </div>
+    </figure>
+</div>
+</br>
