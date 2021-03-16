@@ -90,3 +90,6 @@
 <li>Refroidissement passif</li>
 </ol></br>
 Ce client léger est complètement silencieux lorsque équipé d'une unité de stockage non-mécanique. Le processeur affiche généralement une température de 40 &deg;C et très rarement il dépassera les 50 &deg;C. Le model 7020 est légèrement plus gros que le model 5020 de Dell, mais il a l'avantage de pouvoir loger facilement une unité SATA 2.5. 
+</br>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/screenshot_sysmonitor.png" width="504" height="213" /></p>
+</br>
