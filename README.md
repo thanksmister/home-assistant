@@ -1,4 +1,4 @@
-<h3><img src="/images/photo_wyse_7020.png" alt="" width="157" height="278" /><img src="/images/icon_ha.png" alt="" width="256" height="256" /></h3>
+<h3><img src="/images/icon_ha.png" alt="" width="256" height="256" /><img src="/images/photo_wyse_7020.png" alt="" width="157" height="278" /></h3>
 <p>Dell Wyse 7020 ZQ - model Zx0Q</p>
 <p>AMD G-Series GX-420CA<br />AMD Radeon&trade; HD 8400E (integrate with APU)</p>
 <p>Energy Star V 6.0/6.1 Phase V compliant /&nbsp;RoHS<br />Under 10 watts power consumption (short_idle)</p>
