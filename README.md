@@ -85,7 +85,6 @@
 </tr>
 </tbody>
 </table>
-<h3>&nbsp;</h3>
 <h3>Caract&eacute;ristiques intéressantes du Dell Wyse 7020</h3>
 <ol>
 <li>Consommation moyenne entre 7 watts et 10 watts</li>
@@ -112,4 +111,8 @@ Ce client léger est complètement silencieux lorsqu'il est équipé d'une unit�
         </div>
     </figure>
 </div>
+</br>
+<h3>Photos</h3>
+</br>
+<img style="display: block; margin-left: auto; margin-right: auto;" src="/images/photo_wyse_7020_int.jpg" width="600" height="600" /><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/photo_wyse_7020_rear.jpg" width="300" height="600" />
 </br>
