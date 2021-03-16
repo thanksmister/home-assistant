@@ -96,7 +96,7 @@
 <li>Refroidissement passif</li>
 </ol></br>
 Ce client léger est complètement silencieux lorsqu'il est équipé d'une unité de stockage non-mécanique. Le processeur affiche généralement une température de 40 &deg;C et très rarement il dépassera les 50 &deg;C. Le model 7020 est légèrement plus gros que le model 5020 de Dell, mais il a l'avantage de pouvoir loger facilement une unité SATA 2.5. Les performances du processeur AMD GX-420CA sont respectables en tenant compte de la faible consommation énergétique du système. 
-</br>
+</br></br>
 Il est possible de se procurer cette machine pour un prix entre 50$US et 90$US, parfois dans un état presque neuf. Les unités vendues avec un stockage de 32 Go et moins nécessiteront un peu de bricolage pour ajouter un SSD. Les unités vendues avec un stockage de 64 Go, par exemple, ou avec un HDD, seront plus faciles à convertir puisqu'ils possèdent fort probablement déjà le câblage et le support 2.5.
 </br></br>
 <div align="center">
@@ -121,9 +121,10 @@ Il est possible de se procurer cette machine pour un prix entre 50$US et 90$US, 
      <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/photo_wyse_7020_int.jpg" width="500" height="500" />&nbsp;&nbsp;
      <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/photo_wyse_7020_rear.jpg" width="250" height="500" />
 </div>
-</br>
+</br></br>
 <h3>Ajout</h3>
 Dans l'éventualité où il serait nécessaire d'intégrer des fonctionnalités avec une connection Bluetooth, l'ajout d'un adaptateur USB compatible Linux est requis
+</br>
 <div align="center">
     <figure>
         <div>
@@ -131,3 +132,4 @@ Dans l'éventualité où il serait nécessaire d'intégrer des fonctionnalités 
         </div>
     </figure>
 </div>
+</br>
