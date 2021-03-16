@@ -1,4 +1,4 @@
-<h2>Home Assistant sur une machine minimaliste architecture x86_64</h2>
+<h2>Home Assistant sur une machine minimaliste x86_64</h2>
 <div align="center">
     <figure>
         <div>
