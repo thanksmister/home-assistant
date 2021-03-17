@@ -117,14 +117,18 @@ Il est possible de se procurer cette machine pour un prix entre 50$US et 90$US, 
 </br>
 <h3>Photos</h3>
 </br>
-<div>
-     <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/photo_wyse_7020_int.jpg" width="500" height="500" />&nbsp;&nbsp;
-     <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/photo_wyse_7020_rear.jpg" width="250" height="500" />
+<div align="center">
+    <figure>
+        <div>
+          <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/photo_wyse_7020_int.jpg" width="500" height="500" />&nbsp;&nbsp;
+          <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/photo_wyse_7020_rear.jpg" width="250" height="500" />
+        </div>
+    </figure>
 </div>
 </br></br>
-<h3>Ajout</h3>
+<h3>Ajouts</h3>
 Dans l'éventualité où il serait nécessaire d'intégrer des fonctionnalités avec une connection Bluetooth, l'ajout d'un adaptateur USB compatible Linux est requis
-</br>
+</br></br>
 <div align="center">
     <figure>
         <div>
@@ -133,3 +137,13 @@ Dans l'éventualité où il serait nécessaire d'intégrer des fonctionnalités 
     </figure>
 </div>
 </br>
+Adaptateur compatible zigbee2mqtt pour connections zigbee
+</br></br>
+<div align="center">
+    <figure>
+        <div>
+          <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/icon_zigbee2mqtt.png" width="200" height="200" />&nbsp;&nbsp;
+          <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/photo_zzh.jpg" width="326" height="218" />
+        </div>
+    </figure>
+</div>
