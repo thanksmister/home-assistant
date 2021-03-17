@@ -17,7 +17,7 @@
 </tr>
 <tr style="height: 27px;">
 <td style="width: 37.8323%; border-style: hidden; height: 27px;">GPU</td>
-<td style="width: 67.1521%; border-style: hidden; height: 27px;">AMD Radeon(TM) HD 8400E @ 600 MHz</td>
+<td style="width: 67.1521%; border-style: hidden; height: 27px;">AMD Radeon&trade; HD 8400E @ 600 MHz</td>
 </tr>
 <tr style="height: 27px;">
 <td style="width: 37.8323%; border-style: hidden; height: 27px;">Memory</td>
