@@ -114,6 +114,7 @@ Il est possible de se procurer cette machine pour un prix entre 50$US et 90$US, 
         </div>
     </figure>
 </div>
+</br>
 <div align="center">
     <figure>
         <div>
