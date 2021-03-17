@@ -125,7 +125,7 @@ Il est possible de se procurer cette machine pour un prix entre 50$US et 90$US, 
 </div>
 </br></br>
 <h3>Ajouts</h3>
-Dans l'éventualité où il serait nécessaire d'intégrer des fonctionnalités avec une connection Bluetooth, l'ajout d'un adaptateur USB compatible Linux est requis.
+Dans l'éventualité où il serait nécessaire d'intégrer des fonctionnalités avec une connection Bluetooth, l'ajout d'un adaptateur USB compatible Linux est requis: <b>(Sabrent USB Bluetooth 4.0 Classe 2 / Low Energy</b>
 </br></br>
 <div align="center">
     <figure>
@@ -135,7 +135,7 @@ Dans l'éventualité où il serait nécessaire d'intégrer des fonctionnalités 
     </figure>
 </div>
 </br>
-Adaptateur compatible zigbee2mqtt pour connections zigbee.
+Adaptateur compatible zigbee2mqtt pour connections zigbee: <b>(Electrolama zig-a-zig-ah!)</b>
 </br></br>
 <div align="center">
     <figure>
