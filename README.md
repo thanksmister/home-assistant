@@ -87,10 +87,10 @@
 </table>
 </br>
 <h3>BIOS</h3>
-<b>Version:</b> 2.0G
-<b>Release date:</b> 17 Jul 2019
-<b>Source:</b> ThinLinux_20G_BIOS.zip
-<b>Release note:</b> AMD Microcode to address the Side Channel security vulnerability on Wyse 5020 / 7020
+<b>Version:</b> 2.0G</br>
+<b>Release date:</b> 17 Jul 2019</br>
+<b>Source:</b> ThinLinux_20G_BIOS.zip</br>
+<b>Release note:</b> AMD Microcode to address the Side Channel security vulnerability on Wyse 5020 / 7020</br>
 <h3>Caract&eacute;ristiques intéressantes du Dell Wyse 7020</h3>
 <ol>
 <li>Consommation moyenne entre 7 watts et 10 watts</li>
