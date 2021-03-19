@@ -108,7 +108,7 @@ Il est possible de se procurer cette machine pour un prix entre 50$US et 90$US, 
 <div align="center">
     <figure>
         <div>
-            <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/screenshot_sysmonitor.png" width="852" height="393" /></p>
+            <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/screenshot_sysmonitor.png" width="852" height="393" />
         </div>
     </figure>
 </div>
@@ -116,7 +116,7 @@ Il est possible de se procurer cette machine pour un prix entre 50$US et 90$US, 
 <div align="center">
     <figure>
         <div>
-            <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/screenshot_benchmark.png" width="852" height="426" /></p>
+            <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/screenshot_benchmark.png" width="852" height="426" />
         </div>
     </figure>
 </div>
@@ -124,7 +124,7 @@ Il est possible de se procurer cette machine pour un prix entre 50$US et 90$US, 
 <div align="center">
     <figure>
         <div>
-            <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/screenshot_amd-intel-cpu-benchmark.com.png" width="852" height="352" /></p>
+            <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/screenshot_amd-intel-cpu-benchmark.com.png" width="852" height="352" />source: amd-intel-cpu-benchmark.com
         </div>
     </figure>
 </div>
@@ -145,7 +145,7 @@ Dans l'éventualité où il serait nécessaire d'intégrer des fonctionnalités 
 <div align="center">
     <figure>
         <div>
-            <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/photo_sabrent_btub40.png" width="250" height="217" /></p>
+            <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/photo_sabrent_btub40.png" width="250" height="217" />
         </div>
     </figure>
 </div>
