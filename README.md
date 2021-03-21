@@ -92,6 +92,7 @@
 <b>Source:</b> ThinLinux_20G_BIOS.zip</br>
 <b>Release note:</b> AMD Microcode to address the Side Channel security vulnerability on Wyse 5020 / 7020</br>
 <b>md5sum bios.img:</b> b430dad0d72464b0817b7e656e75be93</br>
+<b>Default password:</b> Fireport (case sensitive)</br>
 <b>Update method:</b> flashrom/stable 1.0-1 amd64</br></br>
 <h3>Caract&eacute;ristiques intéressantes du Dell Wyse 7020</h3>
 <ol>
