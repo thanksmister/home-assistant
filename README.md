@@ -139,6 +139,14 @@ Il est possible de se procurer cette machine pour un prix entre 50$US et 90$US, 
         </div>
     </figure>
 </div>
+</br>
+<div align="center">
+    <figure>
+        <div>source: amd-intel-cpu-benchmark.com
+            <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/photo-conso.jpg" width="375" height="500" />
+        </div>
+    </figure>
+</div>
 </br></br>
 <h3>Ajouts</h3>
 Dans l'éventualité où il serait nécessaire d'intégrer des fonctionnalités avec une connection Bluetooth, l'ajout d'un adaptateur USB compatible Linux est requis: <b>(Sabrent USB Bluetooth 4.0 / Bluetooth LE)</b>
