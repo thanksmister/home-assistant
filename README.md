@@ -142,7 +142,7 @@ Il est possible de se procurer cette machine pour un prix entre 50$US et 90$US, 
 </br>
 <div align="center">
     <figure>
-        <div>source: amd-intel-cpu-benchmark.com
+        <div>
             <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/photo-conso.jpg" width="375" height="500" />
         </div>
     </figure>
