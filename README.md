@@ -96,9 +96,9 @@
 <b>Default password:</b> Fireport (case sensitive)</br></br>
 <h3>Caract&eacute;ristiques intéressantes du Dell Wyse 7020</h3>
 <ol>
-<li>Consommation moyenne entre 7 watts et 10 watts</li>
-<li>Ports SATA (2) et possibilité d'intégrer SSD interne</li>
-<li>Ports USB 3.0 (2) USB 2.0 (4)</li>
+<li>Consommation moyenne entre 7 watts et 10 watts (incluant SSD)</li>
+<li>Ports SATA (2), possibilité d'intégrer SSD ou HDD interne</li>
+<li>Ports USB 3.0 (2), USB 2.0 (4), possibilité de démarrage</li>
 <li>Généralement 4 Go de RAM, possibilité à 8 Go, 2 fentes SODIMM DDR3, maximum de 16 Go (non validé)</li>
 <li>Dimension largeur: 47 mm, profondeur: 200 mm, hauteur: 225 mm</li>
 <li>Refroidissement passif</li>
