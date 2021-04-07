@@ -30,6 +30,14 @@ deb http://deb.debian.org/debian buster-updates main contrib non-free
 deb http://deb.debian.org/debian buster-backports main contrib non-free
 ```
 
+<p>Activer buster-backports dans les dépôts pour mise à jour noyau:</p>
+
+```bash
+sudo apt update
+sudo apt install -t buster-backports linux-image-amd64
+sudo apt install -t buster-backports firmware-linux firmware-linux-nonfree
+```
+
 <p>Installation:</p>
 
 ```bash
@@ -37,5 +45,3 @@ sudo apt update
 sudo apt upgrade
 sudo apt install locales
 ```
-
-
