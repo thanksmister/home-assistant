@@ -4,7 +4,7 @@
 <p>Lien pour télécharger: <a href="https://cdimage.debian.org/cdimage/unofficial/non-free/images-including-firmware/current-live/amd64/iso-hybrid/">https://cdimage.debian.org/cdimage/unofficial/non-free/images-including-firmware/current-live/amd64/iso-hybrid/</a></p>
 
 
-<p>Noyaux testés:</p>
+<p><b>Noyaux testés:</b></p>
 
 ```bash
 ~$ dpkg --list | grep linux-image
@@ -14,7 +14,7 @@ ii  linux-image-5.10.0-0.bpo.4-amd64   5.10.19-1~bpo10+1    amd64    Linux 5.10 
 ii  linux-image-amd64                  5.10.19-1~bpo10+1    amd64    Linux for 64-bit PCs (meta-package)
 ```
 
-<p>Dépôts sources:</p>
+<p><b>Dépôts sources:</b></p>
 
 ```bash
 ~$ cat /etc/apt/sources.list
@@ -30,7 +30,7 @@ deb http://deb.debian.org/debian buster-updates main contrib non-free
 deb http://deb.debian.org/debian buster-backports main contrib non-free
 ```
 
-<p>Activer buster-backports dans les dépôts pour mise à jour noyau:</p>
+<p><b>Activer buster-backports dans les dépôts pour mise à jour noyau:</b></p>
 
 ```bash
 sudo apt update
@@ -38,7 +38,7 @@ sudo apt install -t buster-backports linux-image-amd64
 sudo apt install -t buster-backports firmware-linux firmware-linux-nonfree
 ```
 
-<p>Installation:</p>
+<p><b>Installation:</b></p>
 
 ```bash
 sudo apt update
