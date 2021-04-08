@@ -38,6 +38,16 @@ sudo apt install -t buster-backports linux-image-amd64
 sudo apt install -t buster-backports firmware-linux firmware-linux-nonfree
 ```
 
+<p><b>Version au moment de la rédaction:</b></p>
+
+```bash
+~$ cat /etc/debian_version
+10.9
+
+~$ uname -r
+5.10.0-0.bpo.4-amd64
+```
+
 <p><b>Installation:</b></p>
 
 ```bash
