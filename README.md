@@ -85,7 +85,6 @@
 </tr>
 </tbody>
 </table>
-</br>
 <h3>BIOS</h3>
 <b>Version:</b> 2.0B</br></br>
 <b><i>Latest:</i></b></br>
@@ -96,7 +95,7 @@
 <b>md5sum bios.img:</b> b430dad0d72464b0817b7e656e75be93</br>
 <b>Update method:</b> flashrom/stable 1.0-1 amd64</br>
 <b>Default password:</b> Fireport (case sensitive)</br></br>
-<h3>Caract&eacute;ristiques intéressantes du Dell Wyse 7020</h3>
+<h2>Caract&eacute;ristiques intéressantes du Dell Wyse 7020</h2>
 <ol>
 <li>Coût d'acquisition peu élevé</li>
 <li>Consommation moyenne entre 6 watts et 10 watts (incluant SSD)</li>
