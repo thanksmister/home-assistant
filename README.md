@@ -85,7 +85,7 @@
 </tr>
 </tbody>
 </table>
-
+</br>
 <b>BIOS:</b> WYSE ZQ Class/ZQ Class, BIOS 2.0B 01/09/2015
 
 <b>Latest version:</b> 2.0G</br>
