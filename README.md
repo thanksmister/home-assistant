@@ -86,16 +86,15 @@
 </tbody>
 </table>
 <h3>BIOS</h3>
-<b>Version:</b> 2.0B</br></br>
-<b><i>Latest:</i></b></br>
+<b>Version:</b> `2.0B`</br></br>
 
-Version: `2.0G`</br>
-Release date: `17 Jul 2019`</br>
-Source: `ThinLinux_20G_BIOS.zip`</br>
-Release note: `AMD Microcode to address the Side Channel security vulnerability on Wyse 5020 / 7020`</br>
-md5sum bios.img: `b430dad0d72464b0817b7e656e75be93`</br>
-Update method: `flashrom/stable 1.0-1 amd64`</br>
-Default password: `Fireport (case sensitive)`</br></br>
+<b>Latest version:</b> `2.0G`</br>
+<b>Release date:</b> `17 Jul 2019`</br>
+<b>Source:</b> `ThinLinux_20G_BIOS.zip`</br>
+<b>Release note:</b> `AMD Microcode to address the Side Channel security vulnerability on Wyse 5020 / 7020`</br>
+<b>md5sum bios.img:</b> `b430dad0d72464b0817b7e656e75be93`</br>
+<b>Update method:</b> `flashrom/stable 1.0-1 amd64`</br>
+<b>Default password:</b> `Fireport (case sensitive)`</br></br>
 
 <h2>Caract&eacute;ristiques intéressantes du Dell Wyse 7020</h2>
 <ol>
