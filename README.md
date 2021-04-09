@@ -1,4 +1,4 @@
-<h2>Home Assistant sur une machine minimaliste x86_64</h2>
+<h1>Home Assistant sur une machine minimaliste x86_64</h1>
 <div align="center">
     <figure>
         <div>
@@ -86,7 +86,7 @@
 </tbody>
 </table>
 </br>
-<h2>BIOS</h2>
+<h3>BIOS</h3>
 <b>Version:</b> 2.0B</br></br>
 <b><i>Latest:</i></b></br>
 <b>Version:</b> 2.0G</br>
