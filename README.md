@@ -88,8 +88,10 @@
 <h3>BIOS</h3>
 <b>Version:</b> 2.0B</br></br>
 <b><i>Latest:</i></b></br>
-`Version:2.0G`
-<b>Release date:</b> 17 Jul 2019</br>
+
+Version:`2.0G`
+Release date: `17 Jul 2019`
+
 <b>Source:</b> ThinLinux_20G_BIOS.zip</br>
 <b>Latest release note:</b> AMD Microcode to address the Side Channel security vulnerability on Wyse 5020 / 7020</br>
 <b>md5sum bios.img:</b> b430dad0d72464b0817b7e656e75be93</br>
