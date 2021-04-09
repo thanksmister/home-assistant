@@ -128,7 +128,7 @@ Il est possible de se procurer cette machine pour un prix entre 50$US et 90$US, 
 <div align="center">
     <figure>
         <div>source: cpubenchmark.net
-            <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/screenshot_passmark.png" width="855" height="242" />
+            <img style="display: block; margin-left: auto; margin-right: auto;" src="/images/screenshot_passmark.png" width="855" height="282" />
         </div>
     </figure>
 </div>
