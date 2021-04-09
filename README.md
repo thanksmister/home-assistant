@@ -88,7 +88,7 @@
 </br>
 <h3>BIOS</h3>
 <b>Version:</b> 2.0B</br>
-<u>Latest:</u></br>
+<b>Latest:</b></br>
 <b>Version:</b> 2.0G</br>
 <b>Release date:</b> 17 Jul 2019</br>
 <b>Source:</b> ThinLinux_20G_BIOS.zip</br>
