@@ -112,11 +112,11 @@ Il est possible de se procurer cette machine pour un prix entre 50$US et 90$US, 
 </br></br>
 Autres models connus:
 </br>
-Dell Wyse 5010 D90D7 - AMD G-T48E 1.4 GHz (2013)
-Dell Wyse 7010 Z90D7 - AMD G-T52R 1.5 GHz / AMD G-T56N 1.65 GHz (2013)
-Dell Wyse 5020 Dx0Q - AMD GX-415GA 1.5 GHz (2017)
-Dell Wyse 7020 Zx0Q - AMD GX-415GA 1.5 GHz / AMD GX-420CA 2.0 GHz (2017)
-Dell Wyse 5070 - Intel Celeron J4105 1.5 GHz / Intel Pentium Silver J5005 1.5 GHz (2018)
+Dell Wyse 5010 D90D7 - AMD G-T48E 1.4 GHz (2013)</br>
+Dell Wyse 7010 Z90D7 - AMD G-T52R 1.5 GHz / AMD G-T56N 1.65 GHz (2013)</br>
+Dell Wyse 5020 Dx0Q - AMD GX-415GA 1.5 GHz (2017)</br>
+Dell Wyse 7020 Zx0Q - AMD GX-415GA 1.5 GHz / AMD GX-420CA 2.0 GHz (2017)</br>
+Dell Wyse 5070 - Intel Celeron J4105 1.5 GHz / Intel Pentium Silver J5005 1.5 GHz (2018)</br>
 </br></br>
 <div align="center">
     <figure>
