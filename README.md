@@ -110,6 +110,14 @@ Ce client léger est complètement silencieux lorsqu'il est équipé d'une unit�
 </br></br>
 Il est possible de se procurer cette machine pour un prix entre 50$US et 90$US, parfois dans un état presque neuf. Les unités vendues avec un stockage de 32 Go et moins nécessiteront un peu de bricolage pour ajouter un SSD. Les unités vendues avec un stockage de 64 Go, par exemple, ou avec un HDD, seront plus faciles à convertir puisqu'ils possèdent fort probablement déjà le câblage et le support 2.5.
 </br></br>
+Autres models connus:
+</br>
+Dell Wyse 5010 D90D7 - AMD G-T48E 1.4 GHz (2013)
+Dell Wyse 7010 Z90D7 - AMD G-T52R 1.5 GHz / AMD G-T56N 1.65 GHz (2013)
+Dell Wyse 5020 Dx0Q - AMD GX-415GA 1.5 GHz (2017)
+Dell Wyse 7020 Zx0Q - AMD GX-415GA 1.5 GHz / AMD GX-420CA 2.0 GHz (2017)
+Dell Wyse 5070 - Intel Celeron J4105 1.5 GHz / Intel Pentium Silver J5005 1.5 GHz (2018)
+</br></br>
 <div align="center">
     <figure>
         <div>
