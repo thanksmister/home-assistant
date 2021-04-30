@@ -9,7 +9,7 @@
    Procédure d'installations, configurations et matériel<br/>pour Home Assistant<br/><sup>par Mathieu Longpré</sup>
 </h2>
 
-## Table des matieres
+## Table des matières
 
 1. **[Introduction](#introduction)**
 2. **[Dell Wyse 7020](https://github.com/logicup-connected/home-assistant/blob/main/WYSE-7020.md)**: présentation du matériel
