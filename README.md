@@ -16,4 +16,9 @@
 
 
 ## Introduction
-En tant qu'utilisateur de Home Assistant depuis 2019, j'ai vite réalisé que bien que s'agisse d'une simple intégration domiciliaire, le succès de mon installation et de cette aventure résidait tout d'abord dans une bonne documentation. Ce dépôt se veut ainsi un partage des différents chapitres du développement de mon intégration. 
+En tant qu'utilisateur de Home Assistant depuis 2019, j'ai vite réalisé que bien que s'agisse d'une simple intégration domiciliaire, le succès de mon installation et de cette aventure résidait tout d'abord dans une bonne documentation. Ce dépôt se veut ainsi un partage des différents chapitres du développement de mon intégration.
+En 2020 l'équipe de développement a voulu éclaircir les différents types d'installation de Home Assistant. Avant d'aller plus loin, il est important de comprendre en quoi consiste le différentes installations:
+**Home Assistant:** Il s'agit de l'installation la plus complète qui consiste à dédié une machine physique, ou virtuelle, à Home Assistant sous la forme d'un système d'exploitation
+**Home Assistant Container:** Se limite à l'installation du noyau principal sous forme de conteneur
+**Home Assistant Core:** Se limite à l'installation du noyau principal directement sous Python
+**Home Assistant Supervised:** Consiste à installer l'ensemble de la solution dans un système d'exploitation autre que celui développer à cette fin. À ce jour, seul Debian est supporté, et ainsi fortement conseillé
