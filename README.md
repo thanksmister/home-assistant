@@ -28,4 +28,5 @@ En 2020 l'équipe de développement a voulu éclaircir les différents types d'i
 Lorsque vous adoptez Home Assistant, l'équipement sur lequel votre solution est installée deviendra aussi important que votre connexion internet. Tout comme un routeur, cet équipement sera appelé à fonctionner en tout temps. Pour cette raison, j'accorde une importance particulière à ces points:<br/><br/>
 **Consommation énergétique:** La solution devra consommer entre 5 et 10 watts pour un coût d'utilisation entre 3$ et 8$ annuel.<br/>
 **Coût de l'équipement:** Une solution domotique élargie peut coûter très cher étant donné l'étendu des dispositifs requis. Pour cette raison, le coût du matériel sur lequel Home Assistant est installé ne devrait pas dépasser 200$.<br/>
-**Solution de remplacement:** 
+**Solution de remplacement:** Prévoir une solution de rechange en cas de panne de matériel. Prévoir une méthodologie de sauvegarde automatique.<br/>
+**Toujours actif:** La matériel assurant la connexion internet ainsi que Home Assistant devraient être alimentés de façon continue. <br/>
