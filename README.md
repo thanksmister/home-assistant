@@ -6,7 +6,7 @@
     </figure>
 </div>
 <h2 align="center">
-   Procédure d'installations, configurations et matériel<br/>pour Home Assistant<br/><sup>par Mathieu Longpré</sup>
+   Procédure d'installations, configurations et matériel<br/>pour Home Assistant<br/><br/><sup>par Mathieu Longpré</sup>
 </h2>
 
 ## Table des matières
