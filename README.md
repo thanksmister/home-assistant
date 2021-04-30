@@ -19,10 +19,10 @@
 ## Introduction
 En tant qu'utilisateur de Home Assistant depuis 2019, j'ai vite réalisé que bien que s'agisse d'une simple intégration domiciliaire, le succès de mon installation et de cette aventure résidait tout d'abord dans une bonne documentation. Ce dépôt se veut ainsi un partage des différents chapitres du développement de mon intégration.
 En 2020 l'équipe de développement a voulu éclaircir les différents types d'installation de Home Assistant. Avant d'aller plus loin, il est important de comprendre en quoi consiste le différentes installations:<br/><br/>
-**Home Assistant:** Il s'agit de l'installation la plus complète qui consiste à dédier une machine physique, ou virtuelle, à l'ensemble de la solution sous la forme d'un système d'exploitation<br/>
-**Home Assistant Container:** Se limite à l'installation du noyau principal sous forme de conteneur<br/>
-**Home Assistant Core:** Se limite à l'installation du noyau principal directement sous Python<br/>
-**Home Assistant Supervised:** Consiste à installer l'ensemble de la solution dans un système d'exploitation autre que celui développé à cette fin. À ce jour, seul Debian est supporté, et ainsi fortement recommandé<br/><br/>
+**Home Assistant:** Il s'agit de l'installation la plus complète qui consiste à dédier une machine physique, ou virtuelle, à l'ensemble de la solution sous la forme d'un système d'exploitation.<br/>
+**Home Assistant Container:** Se limite à l'installation du noyau principal sous forme de conteneur.<br/>
+**Home Assistant Core:** Se limite à l'installation du noyau principal directement sous Python.<br/>
+**Home Assistant Supervised:** Consiste à installer l'ensemble de la solution dans un système d'exploitation autre que celui développé à cette fin. À ce jour, seul Debian est supporté, et ainsi fortement recommandé.<br/><br/>
 
 ## Équipement
 Lorsque vous adoptez Home Assistant, l'équipement sur lequel votre solution est installée deviendra aussi important que votre connexion internet. Tout comme un routeur, cet équipement sera appelé à fonctionner en tout temps. Pour cette raison, j'accorde une importance particulière à ces points:<br/><br/>
