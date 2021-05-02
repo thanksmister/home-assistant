@@ -30,4 +30,15 @@ Lorsque vous adoptez Home Assistant, l'équipement sur lequel votre solution est
 **Consommation énergétique:** La solution devra consommer entre 5 et 10 watts pour un coût annuel d'utilisation entre 3$ et 8$.<br/>
 **Coût de l'équipement:** Une solution domotique élargie peut coûter très cher étant donné l'étendu des dispositifs requis. Pour cette raison, le coût du matériel sur lequel Home Assistant est installé ne devrait pas dépasser 200$.<br/>
 **Solution de remplacement:** Prévoir une solution de rechange en cas de panne de matériel. Prévoir une méthodologie de sauvegarde automatique.<br/>
-**Toujours actif:** La matériel assurant la connexion internet ainsi que Home Assistant devraient être alimentés de façon continue. <br/>
+**Toujours actif:** La matériel assurant la connexion internet ainsi que Home Assistant devraient être alimentés de façon continue. <br/><br/>
+
+## Réseau domotique
+
+<br/><br/>
+<div align="center">
+    <figure>
+        <div>
+            <img src="/images/diagram_ha_hardware.png" alt="" width="450" height="420" />
+        </div>
+    </figure>
+</div>
