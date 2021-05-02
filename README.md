@@ -35,7 +35,6 @@ Lorsque vous adoptez Home Assistant, l'équipement sur lequel votre solution est
 
 ## Réseau domotique
 
-<br/><br/>
 <div align="center">
     <figure>
         <div>
