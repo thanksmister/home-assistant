@@ -39,7 +39,7 @@ Lorsque vous adoptez Home Assistant, l'équipement sur lequel votre solution est
 <div align="center">
     <figure>
         <div>
-            <img src="/images/diagram_ha_hardware.png" alt="" width="450" height="420" />
+            <img src="/images/diagram_ha_hardware.png" alt=""/>
         </div>
     </figure>
 </div>
