@@ -22,7 +22,7 @@ En 2020 l'équipe de développement a voulu éclaircir les différents types d'i
 **Home Assistant:** Il s'agit de l'installation la plus complète qui consiste à dédier une machine physique, ou virtuelle, à l'ensemble de la solution sous la forme d'un système d'exploitation.<br/>
 **Home Assistant Container:** Se limite à l'installation du noyau principal sous forme de conteneur.<br/>
 **Home Assistant Core:** Se limite à l'installation du noyau principal directement sous Python.<br/>
-**Home Assistant Supervised:** Consiste à installer l'ensemble de la solution dans un système d'exploitation autre que celui développé à cette fin. À ce jour, seul Debian est supporté, et ainsi fortement recommandé.<br/><br/>
+**Home Assistant Supervised:** Consiste à installer l'ensemble de la solution dans un système d'exploitation autre que celui développé à cette fin. À ce jour, seul Debian 10 est supporté, et ainsi fortement recommandé.<br/><br/>
 
 ## Équipement
 Lorsque vous adoptez Home Assistant, l'équipement sur lequel votre solution est installée deviendra aussi important que votre connexion internet. Tout comme un routeur, cet équipement sera appelé à fonctionner en tout temps. Pour cette raison, j'accorde une importance particulière à ces points:<br/><br/>
