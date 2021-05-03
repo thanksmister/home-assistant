@@ -14,7 +14,7 @@
 1. **[Introduction](#introduction)**
 2. **[Équipement](#équipement)**
 3. **[Réseau domotique](#réseau-domotique)**
-4. **[Dell Wyse 7020](https://github.com/logicup-connected/home-assistant/blob/main/WYSE-7020.md)**: présentation du matériel
+4. **[Dell Wyse 7020](https://github.com/logicup-connected/home-assistant/blob/main/WYSE-7020.md)**: spécifications
 
 <br/>
 
