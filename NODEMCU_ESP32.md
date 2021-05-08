@@ -1,3 +1,29 @@
+<div align="center">
+    <figure>
+        <div>
+            <img src="/images/icon_ha.png" alt="" width="128" height="128" />
+        </div>
+    </figure>
+</div>
+
+## Table des matières
+
+1. **[Connexions](#connexions)**
+2. **[ESPHome](#esphome)**
+
+<br/>
+
+## Connexions
+
+<div align="center">
+    <figure>
+        <div>
+            <img src="/images/icon_ha.png" alt="" width="128" height="128" />
+        </div>
+    </figure>
+</div>
+
+## ESPHOME
 
 ```yaml
 esphome:
