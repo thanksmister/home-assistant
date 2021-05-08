@@ -1,5 +1,5 @@
 
-
+```yaml
 esphome:
   name: esp32
   platform: ESP32
@@ -30,3 +30,4 @@ sensor:
   - platform: wifi_signal
     name: "ESP32 signal"
     update_interval: 600s
+```
