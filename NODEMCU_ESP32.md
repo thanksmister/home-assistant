@@ -10,14 +10,14 @@
 <div align="center">
     <figure>
         <div>
-            <img src="/images/icon_ha.png" alt="" width="128" height="128" />
+            <img src="/images/board_wroom-32.jpg" alt="" />
         </div>
     </figure>
 </div>
 
 <br/>
 
-## ESPHOME
+## ESPHome
 
 ```yaml
 esphome:
