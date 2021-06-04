@@ -1,7 +1,7 @@
 ## WALLPANEL
 
 1. **[Fire-OS](#fire-os)**
-2. **[Disable-lockscreen](#disable lockscreen)**
+2. **[Disable lockscreen](#disable-lockscreen)**
 
 <br/>
 
