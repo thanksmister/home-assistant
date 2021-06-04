@@ -7,6 +7,13 @@
 
 ## Fire-OS
 
+Alimentation: Désactiver toutes les options d'économie d'énergie
+Affichage: Désactiver luminosité adaptive
+Mise en veille de l'écran: 5 minutes
+Orientation: Conserver l'orientation portrait
+Services de localisations: Désactiver toutes les options
+Administrateurs de l'appareil: Désactiver Mode Show
+
 ```
 1) Install Settings Database Editor.apk
 
