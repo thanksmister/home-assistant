@@ -1,3 +1,5 @@
+You can't take my APK file that belongs to my open source project and use it in your own project.  You must refer back to my project because I own that APK and the code and you have to credit my project.   Please remove the WallPanel apk from your project. 
+
 ## WALLPANEL
 
 1. **[Fire-OS](#fire-os)**
