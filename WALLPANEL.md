@@ -5,6 +5,9 @@
 
 <br/>
 
+https://forum.xda-developers.com/t/disable-swipe-up-lockscreen.4032599/
+
+
 ## Fire-OS
 ```
 Alimentation: Désactiver toutes les options d'économie d'énergie
